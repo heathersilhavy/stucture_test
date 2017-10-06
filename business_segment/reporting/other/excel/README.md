@@ -1,1 +1,1 @@
-base directory for excel projects
+base directory for MS Excel projects
