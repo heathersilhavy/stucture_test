@@ -1,7 +1,7 @@
 base directory for database objects
 
 Subdirectories:
-1. Function
-2. Stored Procedure
-3. Table
-4. View
+1. function
+2. stored_procedure
+3. table
+4. view
